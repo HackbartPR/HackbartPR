@@ -1,5 +1,5 @@
-👋 Olá, Sou o @HackbartPR sou iniciante no mundo da programação e venho através do meu perfil compartilhar com um pouco do meu aprendizado
-<br>
+👋 Olá, Sou o @HackbartPR sou iniciante no mundo da programação e venho através do meu perfil compartilhar com um pouco do meu aprendizado.
+<br><br>
 🌱 Atualmente, estou aprendendo:
 <ul>
 <li> HTML 📗</li>
