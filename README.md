@@ -4,7 +4,7 @@
 <li> HTML 📗</li>
 <li> CSS 📗</li>
 <li> Java Script 📗</li>
-</ul>
+</ul><br>
 📫 Você pode me encontrar também no:
 <ul>
 <li><a href="linkedin.com/in/carlos-guilherme-hackbart">Linkedin</a></li>
