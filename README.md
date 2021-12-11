@@ -1,10 +1,11 @@
 👋 Olá, Sou o @HackbartPR sou iniciante no mundo da programação e venho através do meu perfil compartilhar com um pouco do meu aprendizado
+<br>
 🌱 Atualmente, estou aprendendo:
-<ul style="style-list:none">
+<ul>
 <li> HTML 📗</li>
 <li> CSS 📗</li>
 <li> Java Script 📗</li>
-</ul><br>
+</ul>
 📫 Você pode me encontrar também no:
 <ul>
 <li><a href="linkedin.com/in/carlos-guilherme-hackbart">Linkedin</a></li>
