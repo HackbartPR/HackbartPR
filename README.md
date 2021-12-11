@@ -3,9 +3,9 @@
 <ul style="style-list:none">
 <li> HTML 📗</li>
 <li> CSS 📗</li>
-<li> JAva Script 📗</li>
+<li> Java Script 📗</li>
 </ul>
-- 📫 Você pode me encontrar também no:
+📫 Você pode me encontrar também no:
 <ul>
 <li><a href="linkedin.com/in/carlos-guilherme-hackbart">Linkedin</a></li>
 <li><a href="mailto:cgharckbart@gmail.com"></a>E-mail</li>
