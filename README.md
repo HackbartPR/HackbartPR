@@ -8,7 +8,7 @@
 📫 Você pode me encontrar também no:
 <ul>
 <li><a href="linkedin.com/in/carlos-guilherme-hackbart">Linkedin</a></li>
-<li><a href="mailto:cgharckbart@gmail.com"></a>E-mail</li>
+<li><a href="mailto:cgharckbart@gmail.com">E-mail</a></li>
 </ul>
 
 
