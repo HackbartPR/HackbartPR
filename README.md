@@ -2,8 +2,8 @@
 <br><br>
 🌱 Atualmente, estou aprendendo:
 <ul>
-<li> HTML 📗</li>
-<li> CSS 📗</li>
+<li> HTML5 📗</li>
+<li> CSS3 📗</li>
 <li> Java Script 📗</li>
 </ul>
 📫 Você pode me encontrar também no:
