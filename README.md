@@ -10,6 +10,7 @@
 <ul>
 <li><a href="linkedin.com/in/carlos-guilherme-hackbart">Linkedin</a></li>
 <li><a href="mailto:cgharckbart@gmail.com">E-mail</a></li>
+  <li><b>Nome Completo:</b> Carlos Guilherme Hackbart</li>
 </ul>
 
 
