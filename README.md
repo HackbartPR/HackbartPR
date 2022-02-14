@@ -5,6 +5,8 @@
 <li> HTML5 📗</li>
 <li> CSS3 📗</li>
 <li> Java Script 📗</li>
+<li> Node JS 📗</li>
+<li> Mongo DB 📗</li>
 </ul>
 📫 Você pode me encontrar também no:
 <ul>
