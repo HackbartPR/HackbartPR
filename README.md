@@ -1,7 +1,7 @@
 ### 👋 Olá, Sou o @HackbartPR 
 Sou iniciante no mundo da programação e venho através do meu perfil compartilhar um pouco do meu aprendizado.
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackbartPR&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackbartPR&show_icons=true)![Metrics](https://metrics.lecoq.io/HackbartPR?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
 
 🌱 Atualmente, estou aprendendo:
 <div style='display: inline_block'>
@@ -18,7 +18,7 @@ Sou iniciante no mundo da programação e venho através do meu perfil compartil
 📫 Você pode me encontrar também no: <br/><br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-guilherme-hackbart)
 
-![Metrics](https://metrics.lecoq.io/HackbartPR?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&stars=1&stars.limit=4&config.timezone=America%2FSao_Paulo)
+
 
 
 <!---
