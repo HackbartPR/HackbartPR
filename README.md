@@ -1,7 +1,6 @@
 ### 👋 Olá, Sou o @HackbartPR 
-<br>Sou iniciante no mundo da programação e venho através do meu perfil compartilhar um pouco do meu aprendizado.
+Sou iniciante no mundo da programação e venho através do meu perfil compartilhar um pouco do meu aprendizado.
 <br><br>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackbartPR&show_icons=true) 
 
 🌱 Atualmente, estou aprendendo:
