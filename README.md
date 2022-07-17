@@ -8,7 +8,7 @@
 
 <div align="center">
   <img height="150" src="https://i.pinimg.com/originals/eb/24/ac/eb24ac9ceb8b614128ed5945a385206a.gif"  />
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=HackbartPR" height="150" width="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=HackbartPR" height="150" width="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&username=HackbartPR" height="150" alt="languages graph"  />
 </div>
 
