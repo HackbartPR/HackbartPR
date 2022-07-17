@@ -14,6 +14,7 @@
 
 ###
 
+<br/>
 <p align="left">🌱 Stack com a qual trabalho:</p>
 
 ###
@@ -35,6 +36,7 @@
 
 ###
 
+<br/>
 <p align="left">📫 Você pode me encontrar também:</p>
 
 ###
