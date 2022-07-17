@@ -4,12 +4,12 @@ Sou iniciante no mundo da programação e venho através do meu perfil compartil
 
 
 <style scoped>
-  #teste {
+  div {
     width: 20px;
     height: 20px;
   }
 </style>
-<div id="teste">
+<div>
 ![writing-believe](https://user-images.githubusercontent.com/95001642/179398712-525b7f42-5b1c-49fc-b0d4-adf7e20addb0.svg)
 </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackbartPR&show_icons=true)
