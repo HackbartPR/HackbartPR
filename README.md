@@ -33,6 +33,8 @@
 
 ###
 
+<p align="left">Stack que possuo conhecimento</p>
+
 ###
 
 <div align="left">
