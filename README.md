@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Sou iniciante no mundo da programação e venho através do meu perfil compartilhar um pouco do meu aprendizado.</p>
+<p align="left">Sou iniciante no mundo da programação e venho através do meu perfil compartilhar um pouco do meu aprendizado.</p>
 
 ###
 
