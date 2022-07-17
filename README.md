@@ -3,6 +3,9 @@ Sou iniciante no mundo da programação e venho através do meu perfil compartil
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackbartPR&show_icons=true)
 
+![writing-believe](https://user-images.githubusercontent.com/95001642/179398712-525b7f42-5b1c-49fc-b0d4-adf7e20addb0.svg)
+
+
 🌱 Stack com a qual trabalho:
 <div style='display: inline_block'>
   <img align='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
