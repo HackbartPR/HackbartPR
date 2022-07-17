@@ -14,6 +14,8 @@
 
 ###
 
+<p align="left">🌱 Stack com a qual trabalho:</p>
+
 ###
 
 <div align="center">
@@ -33,7 +35,7 @@
 
 ###
 
-<p align="left">Stack que possuo conhecimento</p>
+<p align="left">📫 Você pode me encontrar também:</p>
 
 ###
 
