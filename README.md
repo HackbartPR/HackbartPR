@@ -6,6 +6,7 @@
 
 ###
 
+
 <div align="center">
   <img height="137" src="https://i.pinimg.com/originals/eb/24/ac/eb24ac9ceb8b614128ed5945a385206a.gif"  />
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=HackbartPR" height="137" alt="stats graph"  />
@@ -53,12 +54,6 @@
   </a>
 </div>
 
-###
-
-###
-
 <div align="center">
-<img height="200" display="inline-block" src="https://www.italacadeiras.com.br/wp-content/uploads/2019/11/gif.contrucao.gif"  />
+<img height="600" src="https://user-images.githubusercontent.com/95001642/179401996-e5a930f8-7186-4fb6-8404-49ad806e1a16.png"  />
 </div>
-
-###
