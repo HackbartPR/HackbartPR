@@ -6,18 +6,11 @@
 
 ###
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=HackbartPR" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&username=HackbartPR" height="150" alt="languages graph"  />
-</div>
-###
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackbartPR&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackbartPR&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-###
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&username=HackbartPR" height="150" alt="languages graph"  />
-</div>
+ </div>
 
 ###
 
