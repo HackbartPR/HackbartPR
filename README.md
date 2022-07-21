@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackbartPR&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackbartPR&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackbartPR&show_icons=true&theme=dracula&count_private=true&)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackbartPR&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
 
