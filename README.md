@@ -1,22 +1,17 @@
-<h2 align="left">Olá 👋! Sou o HackbartPR</h2>
+## Olá 👋! Sou o HackbartPR
 
-###
+Sou iniciante no mundo da programação e venho através do meu perfil compartilhar um pouco do meu aprendizado.
 
-<p align="left">Sou iniciante no mundo da programação e venho através do meu perfil compartilhar um pouco do meu aprendizado.</p>
+### Seja Bem Vindo &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=HackbartPR)
 
-###
+Sou formado em Engenharia Elétrica 📚 com experiência de 1 ano e 4 meses como Analista de Engenharia. 
+Atualmente estudo desenvolvimento de softwares 💻 com intuito de migrar de área e me tornar um desenvolvedor 🚀.
 
-<div align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackbartPR&show_icons=true&theme=dracula&count_private=true&)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackbartPR&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+📊 &nbsp;**Meus Status**
 
- </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackbartPR&show_icons=true&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackbartPR&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-###
-
-<p align="left">🌱 Stack com a qual trabalho:</p>
-
-###
+🌱 &nbsp;**Stack com a qual trabalho**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -35,9 +30,7 @@
 
 ###
 
-<p align="left">📫 Você pode me encontrar também:</p>
-
-###
+📫 &nbsp;**Você pode me encontrar também**
 
 <div align="left">
   <a href="https://www.linkedin.com/in/carlos-guilherme-hackbart/" target="_blank">
