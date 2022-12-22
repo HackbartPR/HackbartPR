@@ -4,8 +4,8 @@ Sou iniciante no mundo da programação e venho através do meu perfil compartil
 
 ### Seja Bem Vindo &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=HackbartPR)
 
-Sou formado em Engenharia Elétrica 📚 com experiência de 1 ano e 4 meses como Analista de Engenharia. 
-Atualmente estudo desenvolvimento de softwares 💻 com intuito de migrar de área e me tornar um desenvolvedor 🚀.
+Sou formado em Engenharia Elétrica 📚 com experiência na área de geração de energia. Recentemente, migrei de área para seguir um sonho de me tornar um desenvolvedor de softwares. 
+Hoje, atuo como <strong>Desenvolvedor de Software Web Full Stack Júnior</strong> com as tecnologias: HTML, CSS, Javascript, PHP, MySQL 🚀.
 
 📊 &nbsp;**Meus Status**
 
