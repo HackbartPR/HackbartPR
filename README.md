@@ -8,8 +8,17 @@ Sou formado em Engenharia Elétrica 📚 com experiência na área de geração 
 Hoje, atuo como <strong>Desenvolvedor de Software Web Full Stack Júnior</strong> com as tecnologias: HTML, CSS, Javascript, PHP, MySQL 🚀.
 
 📊 &nbsp;**Meus Status**
+<div align="center">
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=HackbartPR&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackbartPR&show_icons=true&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackbartPR&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 🌱 &nbsp;**Stack com a qual trabalho**
 
