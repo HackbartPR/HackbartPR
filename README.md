@@ -1,6 +1,6 @@
 ## Olá 👋! Sou o HackbartPR
 
-Sou developer backend j e venho através do meu perfil compartilhar um pouco do meu aprendizado.
+Sou developer backend júnior e venho através do meu perfil compartilhar um pouco do meu aprendizado.
 
 ### Seja Bem Vindo &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=HackbartPR)
 
