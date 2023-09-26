@@ -52,7 +52,3 @@ Busco me tornar um especialista nas tecnologias .Net.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-<div align="center">
-<img height="600" src="https://user-images.githubusercontent.com/95001642/179401996-e5a930f8-7186-4fb6-8404-49ad806e1a16.png"  />
-</div>
