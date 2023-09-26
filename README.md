@@ -4,8 +4,8 @@ Sou developer backend júnior e venho através do meu perfil compartilhar um pou
 
 ### Seja Bem Vindo &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=HackbartPR)
 
-Sou formado em Engenharia Elétrica 📚 com experiência na área de geração de energia. Migrei de área para seguir um sonho de me tornar um desenvolvedor de softwares. 
-Atualmente trabalho como desenvolvedor backend na stack de PHP, MySQL. Moodle, JavaScript, Docker e Linux.
+Há um ano com foco no desenvolvimento Backend, já trabalhei com C#, .Net, SQL Server, PHP, MySQL. Moodle, JavaScript, Docker e Linux.
+Busco me tornar um especialista nas tecnologias .Net.
 
 📊 &nbsp;**Meus Status**
 <div align="center">
