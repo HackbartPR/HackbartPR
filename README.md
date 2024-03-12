@@ -48,7 +48,7 @@ Busco me tornar um especialista nas tecnologias .Net.
   <a href="https://www.instagram.com/carlosguilherme.hackbart/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="cgharckbart@gmail.com" target="_blank">
+  <a href="carlos.guilherme.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
