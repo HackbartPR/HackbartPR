@@ -4,9 +4,6 @@ Sou developer backend e venho através do meu perfil compartilhar um pouco do me
 
 ### Seja Bem Vindo &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=HackbartPR)
 
-Há um praticamente dois anos com foco no desenvolvimento Backend, já trabalhei com C#, .Net, SQL Server, PHP, MySQL. Moodle, JavaScript, Docker e Linux.
-Busco me tornar um especialista nas tecnologias .Net.
-
 📊 &nbsp;**Meus Status**
 <div align="center">
 
