@@ -1,6 +1,6 @@
 ## Olá 👋! Sou o HackbartPR
 
-Desenvolvedor Backend com 4 anos de experiência em desenvolvimento e sustentação de sistemas financeiros, ERPs e aplicações em tempo real. Há 1 ano atuo como Desenvolvedor Pleno em uma plataforma BaaS (Banking as a Service) com foco em operações de cessão de ativos financeiros. Pós-graduado em Engenharia de Software, possuo experiência com .NET, SQL, Microsserviços e Cloud Providers (AWS e Azure), aplicando boas práticas e metodologias ágeis.
+Desenvolvedor Backend com 4 anos de experiência em desenvolvimento e sustentação de sistemas financeiros, ERPs e aplicações em tempo real. Há 1 ano atuo como Desenvolvedor Pleno em uma plataforma CaaS (Credit as a Service) com foco em operações de cessão de ativos financeiros. Pós-graduado em Engenharia de Software, possuo experiência com .NET, SQL, Microsserviços e Cloud Providers (AWS e Azure), aplicando boas práticas e metodologias ágeis.
 
 ### Seja Bem Vindo &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=HackbartPR)
 
